@@ -1,0 +1,10 @@
+weight=float(input('Enter a weight  :'))
+unit=input('enter an unit K or P?? ').upper()
+if unit== 'K':
+    weight= weight*2.205
+    print(f'The weight in Pound is {weight} Pounds')
+elif unit== 'P':
+    weight= weight/2.205
+    print(f'The weight in Pound is {weight} KG')
+else:
+    print(f'the weight unit {unit} is invalid ')
