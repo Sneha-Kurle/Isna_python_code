@@ -4,7 +4,8 @@
 1. Create a folder to store the python files of the code in VS code, write and run the code.
 2. Create an empty repository in remote Git. (Git Profile->Your repositories->New)
 3. To push the code from local machine to remote git, create an local git file in vs code.<br>
-                   **>> git init**           #Innitialise the git file in local
+                   **>> git init**           &nbsp;&nbsp;&nbsp;&nbsp;Status  
+MyApp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#Innitialise the git file in local
 4. Selecting a files of code which needs to be push
                    **>> git add .**   #Add all modified and new files (in the current directory and all subdirectories) to the staging area( contains the files that needs to be committed) and . represent all fiels in current directory
 5.Commit the changes.
