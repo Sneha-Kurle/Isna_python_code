@@ -1,5 +1,5 @@
 # Isna_python_code
-#Working with Git
+#Working with Git<br>
 #Pushing code from local machine to Git
 1. Create a folder to store the python files of the code in VS code, write and run the code.
 2. Create an empty repository in remote Git. (Git Profile->Your repositories->New)
