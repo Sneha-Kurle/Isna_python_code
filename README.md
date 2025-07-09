@@ -6,7 +6,7 @@
 3. To push the code from local machine to remote git, create an local git file in vs code.<br>
                    **>> git init**             #Innitialise the git file in local
 4. Selecting a files of code which needs to be push<br>
-                   **>> git add .**   #Add all modified and new files (in the current directory and all subdirectories) to the staging area( contains the files that needs to be committed) and . represent all fiels in current directory
+                   **>> git add .**   #Add all modified and new files (in the current directory and all subdirectories) to the staging area( contains the files that needs to be committed) and . represent all fiels in current directory<br>
 5.Commit the changes.<br>
  Commit is taking a snapshot of the staged files so that Git can remember what they looked like at that point in time.
  Finalising..<br>
